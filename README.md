@@ -13,5 +13,5 @@ https://url.kr/zsn5re<br>
 https://url.kr/wnf6gz<br>
 이런거 참고
 
-다운로드는 download에서 원하는 버전 클릭 후 'View raw'
+다운로드는 download에서 원하는 버전 클릭 후 'View raw'<br>
 Windows defender 경고 시 '추가 정보' - '실행'
