@@ -1,6 +1,6 @@
 랜섬웨어 아님
 
-LDPlayer에서 쿠키런 켜고 에피소드2 홈에서 매크로 실행
+LDPlayer에서 쿠키런카카오 켜고 에피소드2 홈에서 매크로 실행
 
 쿠키 : 무조건 바나나<br>
 펫 : 오래 달리는데 도움될거 같은거 아무거나 ㄱㄱ<br>
@@ -12,3 +12,6 @@ LDPlayer에서 쿠키런 켜고 에피소드2 홈에서 매크로 실행
 https://url.kr/zsn5re<br>
 https://url.kr/wnf6gz<br>
 이런거 참고
+
+다운로드는 download에서 원하는 버전 클릭 후 'View raw'
+Windows defender 경고 시 '추가 정보' - '실행'
